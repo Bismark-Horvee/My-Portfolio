@@ -40,10 +40,13 @@ Portfolio Website:http://127.0.0.1:5500/index.html
  LinkedIn:  https://www.linkedin.com/in/bismarck-horvee
   Instagram:https://www.instagram.com/bismarkhorvee?igsh=MWE4ZWpncjN3bnlyaw.
   Email: bismarckhorveedogbey@gmail.com
+  Figma:https://www.figma.com/proto/U7OR7P9JGbrClRaZIld2sl/Untitled?node-id=0-1&t=4bKZnXleeh8etuoR-1 
+  
+ 
 
 
 Let’s collaborate to elevate your digital presence and build something great together!
 
-
+GitHub:https://github.com/Bismark-Horvee
 
 © 2025 Dogbey Bismarck. All Rights Reserved.
